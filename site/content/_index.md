@@ -1,20 +1,24 @@
+
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Find the best name for your baby"
+subtitle: ideas for unique names
+image: /img/cover.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: "Baby names"
+    text: "Research suggests giving your baby a non-traditional name can seal its fate from the get-go, limiting future employment and social prospects.         
+           But odd monikers are on the rise, thanks to modern society’s obsession with standing out.           
+           “Parents are trying to be original, almost branding their kids in an era where names are viewed on the same level as Twitter handles or a website URL,” writer Sabrina Rogers-Anderson said.           
+           She’s authored “The Little Book of Bogan Baby Names,” chronicling some 200 eyebrow-raising choices Australian parents have made when it comes to christening their new arrivals. “Bogans” are Australia’s answer to American trailer trash."
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "Think of it as a baby name-only juicier, smarter, cooler, better. BabyNames world is the site created by experts for that matter. BabyNames world includes an authoritative 70,000+ name database, a daily blog on baby names, unique lists and features, and a vibrant community of expectant parents and name lovers. With five million unique monthly visitors and twenty million page views from every country around the world."
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    - image: img/baby1.png
+      text: "Our writers and editors are mothers who have seen it all. From newborn milestones to the terrible twos, our team can be trusted to provide information and first-hand experience that will help parents and parents-to-be as they navigate pregnancy, childbirth, and beyond."
+    - image: /img/baby2.png
+      text: "Our library of more than 5,000 pieces of content, created and refined over the past 20+ years, has been written by more than 100 healthcare professionals and industry experts including experienced pediatricians and parenting coaches, and is then vetted by board-certified physicians."
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: "Collectively, our brands have won over 20 industry awards in the last year alone and, most recently, Dotdash was named Publisher of the Year by Digiday, a leading industry publication."
 ---
 
