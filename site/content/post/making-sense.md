@@ -1,27 +1,414 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
+title: 100 most popular Hispanic baby names
 date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
-image: /img/blog-flavor_wheel.jpg
+description: >-
+  Although parents still love the names Santiago, Sebastian, Sophia, and
+  Isabella, which held onto their lead this year, we have some very interesting
+  changes to report for this year's top 100 – for example, the huge leap in
+  popularity made by some names. The most surprising leaper on the boys' list
+  was Jéronimo, which went from number 81 in 2010 to number 18 this year!
+image: /img/833x469x142265004_wide.jpg.pagespeed.ic.akraiacdfj.jpg
 ---
+Girls' Names
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Sofia
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Isabella
 
-## What the updates mean to you
+Camila
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Valentina
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+Valeria
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Mariana
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+Luciana
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Daniela
+
+Gabriela
+
+Victoria
+
+Martina
+
+Lucia
+
+Ximena/Jimena
+
+Sara
+
+Samantha
+
+Maria José
+
+Emma
+
+Catalina
+
+Julieta
+
+Mía
+
+Antonella
+
+Renata
+
+Emilia
+
+Natalia
+
+Zoe
+
+Nicole
+
+Paula
+
+Amanda
+
+María Fernanda
+
+Emily
+
+Antonia
+
+Alejandra
+
+Juana
+
+Andrea
+
+Manuela
+
+Ana Sofia
+
+Guadalupe
+
+Agustina
+
+Elena
+
+María
+
+Bianca
+
+Ariana
+
+Ivanna
+
+Abril
+
+Florencia
+
+Carolina
+
+Maite
+
+Rafaela
+
+Regina
+
+Adriana
+
+Michelle
+
+Alma
+
+Violeta
+
+Salomé
+
+Abigail
+
+Juliana
+
+Valery
+
+Isabel
+
+Montserrat
+
+Allison
+
+Jazmín
+
+Julia
+
+Lola
+
+Luna
+
+Ana
+
+Delfina
+
+Alessandra
+
+Ashley
+
+Olivia
+
+Constanza
+
+Paulina
+
+Rebeca
+
+Carla
+
+María Paula
+
+Micaela
+
+Fabiana
+
+Miranda
+
+Josefina
+
+Laura
+
+Alexa
+
+María Alejandra
+
+Luana
+
+Fátima
+
+Sara Sofía
+
+Isidora
+
+Malena
+
+Romina
+
+Ana Paula
+
+Mariangel
+
+Amelia
+
+Elizabeth
+
+Aitana
+
+Ariadna
+
+María Camila
+
+Irene
+
+Silvana
+
+Clara
+
+Magdalena
+
+Sophie
+
+Josefa
+
+Boys' Names
+
+Santiago
+
+Sebastián
+
+Matías
+
+Mateo
+
+Nicolás
+
+Alejandro
+
+Diego
+
+Samuel
+
+Benjamín
+
+Daniel
+
+Joaquín
+
+Lucas
+
+Tomas
+
+Gabriel
+
+Martín
+
+David
+
+Emiliano
+
+Jerónimo
+
+Emmanuel
+
+Agustín
+
+Juan Pablo
+
+Juan José
+
+Andrés
+
+Thiago
+
+Leonardo
+
+Felipe
+
+Ángel
+
+Maximiliano
+
+Christopher
+
+Juan Diego
+
+Adrián
+
+Pablo
+
+Miguel Ángel
+
+Rodrigo
+
+Alexander
+
+Ignacio
+
+Emilio
+
+Dylan
+
+Bruno
+
+Carlos
+
+Vicente
+
+Valentino
+
+Santino
+
+Julián
+
+Juan Sebastián
+
+Aarón
+
+Lautaro
+
+Axel
+
+Fernando
+
+Ian
+
+Christian
+
+Javier
+
+Manuel
+
+Luciano
+
+Francisco
+
+Juan David
+
+Iker
+
+Facundo
+
+Rafael
+
+Alex
+
+Franco
+
+Antonio
+
+Luis
+
+Isaac
+
+Máximo
+
+Pedro
+
+Ricardo
+
+Sergio
+
+Eduardo
+
+Bautista
+
+Miguel
+
+Cristóbal
+
+Kevin
+
+Jorge
+
+Alonso
+
+Anthony
+
+Simón
+
+Juan
+
+Joshua
+
+Diego Alejandro
+
+Juan Manuel
+
+Mario
+
+Alan
+
+Josué
+
+Gael
+
+Hugo
+
+Matthew
+
+Ivan
+
+Damián
+
+Lorenzo
+
+Juan Martín
+
+Esteban
+
+Álvaro
+
+Valentín
+
+Dante
+
+Jacobo
+
+Jesús
+
+Camilo
+
+Juan Esteban
+
+Elías
